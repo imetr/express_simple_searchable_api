@@ -6,6 +6,6 @@
 2. Navigate to projects folder and run `node server.js`
 
 
-![App Screenshot1](/screenshots/searchable_api_all.JPG)
+![App Screenshot1](/server/screenshots/searchable_api_all.JPG)
 
-![App Screenshot2](/screenshots/searchable_api_query_parameters.JPG)
+![App Screenshot2](/server/screenshots/searchable_api_query_parameters.JPG)
